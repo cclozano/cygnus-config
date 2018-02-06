@@ -23,7 +23,7 @@ cygnus:
 
 spring:
    rabbitmq:
-     host: rabbitmq
+     host: localhost #rabbitmq
      port: 5672
      username: guest
      password: guest
